@@ -1,0 +1,6 @@
+cq: avg time = 0.093 ms, avg comps = 44174.403
+cm: avg time = 0.121 ms, avg comps = 26418.409
+a1m: avg time = 0.128 ms, avg comps = 26420.658
+a1q: avg time = 0.179 ms, avg comps = 58583.942
+mr: avg time = 0.088 ms, avg comps = 7380.391
+mrq: avg time = 0.080 ms, avg comps = 20907.531

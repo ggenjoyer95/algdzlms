@@ -3,8 +3,7 @@
 320827816   A1m - Реализация STRING MERGE SORT\
 320829679   A1q - Реализация STRING QUICK SORT\
 321045346   A1r - Реализация MSD RADIX SORT\
-321045888   A1rq - Реализация MSD RADIX+QUICK SORT\
-
+321045888   A1rq - Реализация MSD RADIX+QUICK SORT
 
 Прогнал по 10 прогонов каждого алгоритма на массивах размеров от 100 до 3000 (шаг 100).\
 MSD Radix with quick-switch лучшее время благодаря раннему переключению на String Quick при малых подмассивам.\
